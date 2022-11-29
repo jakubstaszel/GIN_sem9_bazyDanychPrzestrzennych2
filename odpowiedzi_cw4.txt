@@ -1,0 +1,12 @@
+W jaki sposób wyświetlić definicję tabeli w bazie Oracle?
+Komenda DESCRIBE
+
+W jaki sposób wyświetlić definicję tabeli w bazie PostgreSQL?
+Komenda \d
+
+W jaki sposób wyświetlić definicję tabeli w bazie MySQL?
+Komenda SHOW CREATE TABLE [nazwa tabeli]
+
+Domyślny sposób łączenia danych to INNER JOIN, jakie są inne opcje? Jaka jest różnica pomiędzy nimi?
+Inne to LEFT oraz RIGHT OUTER JOIN, różnią się sposobem łączenia danych - INNER bierze część wspólną, LEFT wszystkie z lewej
+tabeli i pasujące z prawej, a RIGHT na odwrót.
