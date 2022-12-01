@@ -1,0 +1,2 @@
+Jakie inne operacje, oprócz COUNT, umożliwia komponent Aggregate?
+Group by, Count, Count dist, Sum, Average, Maximum, Minimum
