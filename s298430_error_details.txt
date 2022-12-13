@@ -1,0 +1,7 @@
+There was an error and a problem with SSIS, details on the attached screenshot and here is the error message:
+
+[Insert Destination [20]] Error: SSIS Error Code DTS_E_OLEDBERROR.  An OLE DB error has occurred. Error code: 0x80040E2F.
+An OLE DB record is available.  Source: "Microsoft OLE DB Driver for SQL Server"  Hresult: 0x80040E2F  Description: "The statement has been terminated.".
+An OLE DB record is available.  Source: "Microsoft OLE DB Driver for SQL Server"  Hresult: 0x80040E2F  Description: "Violation of PRIMARY KEY constraint 'PK__scd_dime__8749E50AF5437E60'. Cannot insert duplicate key in object 'dbo.scd_dimemp'. The duplicate key value is (270).".
+
+Because of it, I was not able to finish this assingment in the expected way.
