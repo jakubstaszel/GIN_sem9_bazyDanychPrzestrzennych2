@@ -1,0 +1,5 @@
+It was impossible for me to get an expected output from this task, probably because of
+some encoding problems. It was not able to detect rows that are already in database,
+the database has a different encoding than the SSIS, so they were different inputs for the process.
+
+I tried many different ways to make the encoding compatible, but without any success. 
